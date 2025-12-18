@@ -1,0 +1,14 @@
+numpy
+h5py
+opencv-python
+tqdm
+einops
+diffusers
+timm
+hydra-core
+termcolor
+wandb
+safetensors
+gymnasium==0.29.1
+imageio[ffmpeg]
+transformers==4.46.0
